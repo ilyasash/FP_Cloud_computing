@@ -62,27 +62,27 @@ Pada suatu saat di akhir semester 5 terdapat 6 pemuda dari Jurusan Teknologi Inf
 ![App Screenshot](https://i.ibb.co/YybpVNB/Whats-App-Image-2023-12-14-at-23-10-24.jpg)
 
 # Pengujian End Point
-Get Orders\
+- Get Orders\
 
 <p align="center">
     <img src="https://i.ibb.co/Ry9Ty0m/GET-ORDERS.png">
     
-Get Orders By ID\
+- Get Orders By ID\
 
 <p align="center">
     <img src="https://i.ibb.co/R2j5vS8/GET-ORDERS-BY-ID.png">
     
-Post Orders\
+- Post Orders\
 
 <p align="center">
     <img src="https://i.ibb.co/d6pL0BP/POST-ORDERS.png">
     
-Update Orders\
+- Update Orders\
 
 <p align="center">
     <img src="https://i.ibb.co/gSGvDMb/UPDATE-ORDERS.png">
     
-Delete Orders\
+- Delete Orders\
 <p align="center">
     <img src="https://i.ibb.co/j51s0bJ/DELETE-ORDER.png">
     
