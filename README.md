@@ -17,6 +17,7 @@
 Pada suatu saat di akhir semester 5 terdapat 6 pemuda dari Jurusan Teknologi Informasi yanng diberikan sebuah projek dari dosennya untuk Final assessment mata kuliah Cloud computing yang dimana diperintahkan untuk merncang sebuah arsitektur Cloud yang efisien untuk mendukung sebuah aplikasi yang sedang dibangun bernama app.py. Namun Universitas hanya mampu memberikan dana dengan maksimal sebanyak 65 US$ atau sekitar +- 1 juta rupiah per bulan. Dengan permasalahan itu kita dituntut untuk membangun arsitektur yang efisien serta optimal demi kemajuan ITS, VIVAT!!!
 
 # Arsitektur
+![App Screenshot](https://i.ibb.co/PxQHkJb/Whats-App-Image-2023-12-15-at-00-08-12.jpg)
 
 # Tabel Harga
 
