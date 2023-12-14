@@ -114,6 +114,11 @@ Spawn Rate 100
 3. Test pake locust: Yasa, Hilmy, Rakha
 4. Laporan di github: Yasa, Hilmy, Rakha
 
+Dengan ini Kelompok D5 izin pamit,
+
+<p align="center">
+    <img src="https://i.ibb.co/Z6Hf5Rq/82u6f1.jpg">
+
 
 
 
