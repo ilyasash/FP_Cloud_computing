@@ -26,9 +26,8 @@ Pada suatu saat di akhir semester 5 terdapat 6 pemuda dari Jurusan Teknologi Inf
 ![App Screenshot](https://i.ibb.co/PxQHkJb/Whats-App-Image-2023-12-15-at-00-08-12.jpg)
 
 # Tabel Harga
-
-<p align="center">
-    <img src="https://i.ibb.co/1zjb9tm/image.png">
+Berikut merupakan rincian biaya yang diperlukan dari project yang kami buat
+![App Screenshot](https://i.ibb.co/jr94frQ/Whats-App-Image-2023-12-15-at-00-35-57.jpg)
   
 # Implementasi
 - Pertama-tama setelah membuat project pada Digital Ocean, buat Droplets yang nantinya akan menjadi Load Balancer dan App Worker dengan klik tombol `CREATE` di bagian kanan atas lalu pilih `DROPLETS`
