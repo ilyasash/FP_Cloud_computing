@@ -20,6 +20,9 @@ Pada suatu saat di akhir semester 5 terdapat 6 pemuda dari Jurusan Teknologi Inf
 
 # Tabel Harga
 
+<p align="center">
+    <img src="https://i.ibb.co/1zjb9tm/image.png">
+  
 # Implementasi
 
 # Pengujian End Point
