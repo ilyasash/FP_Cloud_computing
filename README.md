@@ -117,8 +117,10 @@ Spawn Rate 100
   # Kesimpulan
 
 Setelah melakukan beberapa pertimbangan dan testing dengan locust dapat ditarik kesimpulan bahwa dengan menggunakan 3 worker maupun 2 worker tidak memiliki perbedaan yang signifikan sehingga kami tetap memutuskan untuk menggunakan 3 worker sesuai dengan perencanaan dan kesepakatan awal waktu penyampaian progress.
-- Untuk analisa kenapa tidak mendapat RPS yang lebih tinggi lagi adalah karena pengetesan locust tergantung salah satunya oleh koneksi internet dari computer penguji oleh karena itu kurang bisa didapatkan hasil yang maksimal
-  
+Dari hasil analisis kami mengenai mengapa 2 worker dan 3 worker tidak berbeda saat testing, kami menemukan 3 faktor yang menyebabkan bottleneck: 
+- Faktor pertama dapat disebabkan kecepatan dan kestabilan internet yang kurang mendukung yang digunakan saat melakukan testing
+- Faktor kedua adalah load balancer yang digunakan mungkin kurang kuat atau kurang tepat sehingga hasil testing yang diberikan tidak maksimal
+- Faktor ketiga mungkin saja disebabkan ada sebuah algoritma yang kami gunakan saat ini masih kurang tepat atau kurang cocok untuk membagi tugas pada worker 
 
   # Pembagian Tugas
   
