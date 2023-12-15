@@ -116,7 +116,7 @@ Spawn Rate 100
 
   # Kesimpulan
 
-setelah melakukan beberapa pertimbangan dan testing dengan locust dapat ditarik kesimpulan bahwa dengan menggunakan 3 worker maupun 2 worker tidak memilik perbedaan yang signifikan sehingga kami tetap memutuskan untuk menggunakan 3 worker sesaiio dengan perencanaa dan kesepakatan awal waktu penyampaian progress.
+Setelah melakukan beberapa pertimbangan dan testing dengan locust dapat ditarik kesimpulan bahwa dengan menggunakan 3 worker maupun 2 worker tidak memiliki perbedaan yang signifikan sehingga kami tetap memutuskan untuk menggunakan 3 worker sesuai dengan perencanaan dan kesepakatan awal waktu penyampaian progress.
 - Untuk analisa kenapa tidak mendapat RPS yang lebih tinggi lagi adalah karena pengetesan locust tergantung salah satunya oleh koneksi internet dari computer penguji oleh karena itu kurang bisa didapatkan hasil yang maksimal
   
 
