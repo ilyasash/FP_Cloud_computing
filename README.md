@@ -100,7 +100,7 @@ Pengujian Endpoint berikut menggunakan Insomnia
     
 # Pengujian Load Testing
 
-Pengujian yang di lakukan dengan menggunakan Locust dan dihasilkan seperti berikut :
+Pengujian yang di lakukan dengan menggunakan Locust didapatkan user maksimal agar persentasi terjadinya failure 0% adalah 400 user. Berikut merupakan visualisasinya:
 
 Spawn Rate 25
 <p align="center">
